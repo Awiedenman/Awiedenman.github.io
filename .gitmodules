@@ -1,3 +1,6 @@
 [submodule "aw-comp-challenge-1"]
 	path = aw-comp-challenge-1
 	url = https://github.com/Awiedenman/aw-comp-challenge-1
+[submodule "aw-comp-challenge-2"]
+	path = aw-comp-challenge-2
+	url = https://github.com/Awiedenman/aw-comp-challenge-2.git
